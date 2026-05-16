@@ -220,3 +220,9 @@ kvm-server.ps1          LAN web UI
 probe-kvm-serial.ps1    Baud sweep / bring-up
 manual/                 Reference photos from the device manual
 ```
+
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE).
